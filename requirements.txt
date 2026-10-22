@@ -1,3 +1,3 @@
-streamlit
-groq
-fpdf
+   streamlit
+   groq>=0.30.0
+   fpdf2
